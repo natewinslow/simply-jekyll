@@ -1,0 +1,12 @@
+---
+title: Can I Get This To Work? 
+tags: nw test
+---
+
+This is my second test at trying to get something I wrote in VSC to automatically push to my Github repository.
+
+The first time I tried this, I somehow ended up with a duplicate simply-jekyll folder inside of my local folder that stores my website. 
+
+Was that because I cloned the git repository into VSC instead of just adding the local folder? I'm not sure. 
+
+Now, if I'm not cloning, will the commits even work when I push them? 
