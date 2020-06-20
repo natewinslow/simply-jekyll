@@ -17,4 +17,4 @@ I'm trying this again - I removed the manual local folder from the workspace in 
 
 That still made me select a local spot to store the files, so the VSC version of the website is being stored in my root folder under simply-jekyll. Since the contents of that folder are pulled from my Github site, and that Github site is what is connected to Netifly, I don't think we'll run into any problems.
 
-I thnik at some point if I want to do terminal stuff, I have to somehow mess with the urls or locations so that it points towards the simply-jekyll folder now instead? Unsure. Either way, now I'm going to test the automatic push updates inside VSC and see if I can cut out the Github desktop middleman step here. 
+I thnik at some point if I want to do terminal stuff, I have to somehow mess with the urls or locations so that it points towards the simply-jekyll folder now instead? Unsure. Either way, now I'm going to test the automatic push updates inside VSC and see if I can cut out the Github desktop middleman step here. TT
