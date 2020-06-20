@@ -10,3 +10,11 @@ The first time I tried this, I somehow ended up with a duplicate simply-jekyll f
 Was that because I cloned the git repository into VSC instead of just adding the local folder? I'm not sure. 
 
 Now, if I'm not cloning, will the commits even work when I push them? 
+
+Ok, so now that upload worked when I did it manually through Github for Desktop.
+
+I'm trying this again - I removed the manual local folder from the workspace in VSC and replaced it by connecting the git repository again.
+
+That still made me select a local spot to store the files, so the VSC version of the website is being stored in my root folder under simply-jekyll. Since the contents of that folder are pulled from my Github site, and that Github site is what is connected to Netifly, I don't think we'll run into any problems.
+
+I thnik at some point if I want to do terminal stuff, I have to somehow mess with the urls or locations so that it points towards the simply-jekyll folder now instead? Unsure. Either way, now I'm going to test the automatic push updates inside VSC and see if I can cut out the Github desktop middleman step here. 
